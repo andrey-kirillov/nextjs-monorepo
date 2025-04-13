@@ -5,6 +5,9 @@
   "references": [
     {
       "path": "./apps/pureReactApp"
+    },
+    {
+      "path": "./apps/nextJsApp"
     }
   ]
 }
