@@ -1,0 +1,8 @@
+{
+  "name": "@nextjs-monorepo/pureReactApp",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "pureReactApp"
+  }
+}
