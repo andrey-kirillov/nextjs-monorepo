@@ -13,6 +13,7 @@ export default defineConfig(() => ({
     port: 4300,
     host: 'localhost',
   },
+  base: './',
   plugins: [react()],
   // Uncomment this if you are using workers.
   // worker: {
